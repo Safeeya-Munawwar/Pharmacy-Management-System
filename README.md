@@ -95,22 +95,7 @@ MediCare Lanka Pharmacy Management System is a web-based application designed to
 
 ---
 
-## Contributors
-This project was developed as part of the **HNDIT3022 – Web Programming** module at the Advanced Technological Institute, Kandy.
-
-### Team Members:
-- **KAN/IT/2022/F/0036 - M.M. Safeeya**
-- **KAN/IT/2022/F/0068 - M.R. Hafsa**
-- **KAN/IT/2022/F/0084 - M.T.F. Ifna**
-- **KAN/IT/2022/F/0093 - M.S.M. Zagib**
-- **KAN/IT/2022/F/0094 - M.M.F. Shabeeha**
-- **KAN/IT/2022/F/0112 - A.G.M. Arshad**
-
----
-
 ## ER Diagram
-
-![ER Diagram](./assets/ER_Diagram.png)
 
 The ER diagram illustrates relationships among key entities like customers, medicines, suppliers, and invoices.
 
@@ -125,7 +110,7 @@ The MediCare Lanka Pharmacy Management System provides a reliable and efficient 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MediCare-Lanka-Pharmacy-Management-System.git
+   git clone https://github.com/Shafiya-Munawwar0036/Pharmacy-Management-System.git
    ```
 
 2. Set up a local server using XAMPP or any similar tool.
