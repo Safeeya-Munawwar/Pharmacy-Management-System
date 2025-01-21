@@ -126,3 +126,9 @@ The MediCare Lanka Pharmacy Management System provides a reliable and efficient 
    ```
    http://localhost/MediCare-Lanka-Pharmacy_Management_System/
    ```
+
+---
+
+## Author
+**Shafiya Munawwar**  
+[GitHub Profile](https://github.com/shafiya-munawwar0036)
