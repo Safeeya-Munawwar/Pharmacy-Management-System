@@ -106,6 +106,13 @@ The MediCare Lanka Pharmacy Management System provides a reliable and efficient 
 
 ---
 
+## Project Report
+```bash
+https://github.com/Shafiya-Munawwar0036/Pharmacy-Management-System/commit/e746de568b5461945e50f90e91a22dccab1c7daa
+ ```
+
+---
+
 ## How to Run the Project
 
 1. Clone the repository:
