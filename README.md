@@ -152,3 +152,8 @@ https://github.com/Shafiya-Munawwar0036/Pharmacy-Management-System/blob/main/Pha
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
+---
+
+© 2024 MediCare Lanka | Built with ❤️ using HTML, CSS, JavaScript, PHP, and MySQL
+
