@@ -148,8 +148,11 @@ https://github.com/Shafiya-Munawwar0036/Pharmacy-Management-System/blob/main/Pha
   <a href="mailto:shafiyasha0036@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://safeeya-munawwar-personal-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  <a href="https://safeeya-munawwar-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://wa.me/94750906149?text=Hello%20Safeeya!%20I%20came%20across%20your%20profile%20and%20would%20like%20to%20connect." target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
